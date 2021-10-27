@@ -1,0 +1,8 @@
+- TCP socket identified by 4-tuple
+	- source IP address
+	- source port number
+	- destination IP address
+	- destination port number
+- demux
+	- receiver uses *all four values* to direct segment to appropriate socket
+- server may support many simultaneous **not done**

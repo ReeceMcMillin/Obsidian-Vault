@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "06b65a7116fa0da7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b79dc381b746cbd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Transport Layer/UDP.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc87ff2712836230",
+    "type": "split",
+    "children": [
+      {
+        "id": "55025f3757fc4b53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fe60436709a6931",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "910675fb71b0bb18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242
+  },
+  "right": {
+    "id": "46d9c67913647853",
+    "type": "split",
+    "children": [
+      {
+        "id": "67e2db3a261b0c18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d322290d1f87d84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Transport Layer/UDP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1b79dc381b746cbd",
+  "lastOpenFiles": [
+    "Transport Layer/UDP.md",
+    "Transport Layer/Connection-Oriented Demultiplexing.md",
+    "Transport Layer/Multiplexing.md",
+    "Transport Layer/Overview.md",
+    "Transport Layer/TCP.md"
+  ]
+}

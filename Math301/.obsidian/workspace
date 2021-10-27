@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "162f2a1d14d44efc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d227084218db6590",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Facts About Sets.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a594189004b7307a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe76b3147c9bc555",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "302e014eea1966d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8fe1330d15cf3e52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "absolute",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a5ff589863b380a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "dacb7fff7ee61005",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a04403feef0c061",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Facts About Sets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "681c79b26f4dccab",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d227084218db6590",
+  "lastOpenFiles": [
+    "Facts About Sets.md",
+    "Exam 2.md",
+    "Results.md",
+    "Division and Modular Arithmetic.md",
+    "The Well-Ordering Principle.md",
+    "Principle of Mathematical Induction.md",
+    "Real Numbers.md",
+    "Proof Techniques.md",
+    "Proof Chart.md",
+    "Proofs.md"
+  ]
+}

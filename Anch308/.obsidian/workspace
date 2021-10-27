@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "3f4deb539b477e6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0eba052d6577df4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "trademarks.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4e1605b87c3250c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8e85d8518cff3b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e2fe2ed36eb85c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "96f411b6ce307c79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f864852b21b021d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5736e363a31e9cf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "127465be73500e03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "trademarks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f0eba052d6577df4",
+  "lastOpenFiles": [
+    "trademarks.md",
+    "trade secrets.md",
+    "public domain.md",
+    "p2p.md",
+    "intellectual property.md",
+    "patent law.md",
+    "Untitled.md",
+    "copyright.md"
+  ]
+}

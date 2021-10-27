@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "a659e68df62fd086",
+    "type": "split",
+    "children": [
+      {
+        "id": "056a26f6e11193ca",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chapter 4/Contract Change.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91ec067c17f07607",
+    "type": "split",
+    "children": [
+      {
+        "id": "bae22c2d880927df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c54331b1fdc59591",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eefd33a50ad068f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "velocity",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346
+  },
+  "right": {
+    "id": "9773152e7d5a2ab3",
+    "type": "split",
+    "children": [
+      {
+        "id": "746f0395d6e40306",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "683db79dd61df51e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapter 4/Contract Change.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "056a26f6e11193ca",
+  "lastOpenFiles": [
+    "Chapter 4/Contract Change.md",
+    "Chapter 4/Design by Contract.md",
+    "Chapter 5/Class Diagrams.md",
+    "Chapter 4/Separation of Concerns.md",
+    "Chapter 4/Preconditions and Postconditions.md",
+    "OVERVIEW.md",
+    "Chapter 1/Introduction.md",
+    "Chapter 4/Coupling.md",
+    "Chapter 4/Cohesion.md",
+    "Chapter 3/Scrum.md"
+  ]
+}
